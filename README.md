@@ -1,14 +1,13 @@
 # Power_of_Number
-Java-Experiment-6
+# Java-Experiment-6
 
+# Method Creation
 
-Method Creation
-
-Aim:
+# Aim:
 
         To write a Java program to create a method to calculate power of a number raised to other.
 
-Algorithm
+# Algorithm
 
 Step 1 : Open Intelli J application or any other code editor.
 
@@ -20,7 +19,7 @@ Step 4 : Calll the method from the Power class in Solution.
 
 Step 5 : Display the result using Solution Class in the terminal.
 
-Program
+# Program
 ~~~
 import java.util.Scanner;
 class Power {
@@ -45,10 +44,10 @@ return 1;
 }
 }
 ~~~
-Output
+# Output
 
 ![image](https://github.com/Poojariyaa/Power_of_Number/assets/127511817/b21fdacb-acb9-403b-bc23-2bd0ae4c1701)
 
-Result
+# Result
 
-We have successfully created a Java program to calculate power of a number raised to other using method
+     We have successfully created a Java program to calculate power of a number raised to other using method
